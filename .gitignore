@@ -1,2 +1,7 @@
 # remove python venv
 venv
+# no __pycache__
+__pycache__/
+
+# Repositories cloned for analysis
+lab1/data/
